@@ -22,7 +22,7 @@ export default function Home({ githubProfileData }) {
           title: "Mohamed Essmat",
           description:
             "A passionate Full Stack Web Developer and Mobile App Developer.",
-          image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+          image: "/myimage.PNG",
           url: "https://developer-portfolio-temp.herokuapp.com/",
           keywords: [
             "Mohamed",
