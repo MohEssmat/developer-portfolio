@@ -2,9 +2,9 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
   name: "Mohamed Essmat",
-  title: "Hi all, I'm Moe",
+  title: "Hi all, I'm Mohamed Essmat",
   description:
-    "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
+    "A passionate Full Stack Web Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Express js / NoSQL / mySQL / Rest APIs / PWA / Object-Oriented Programming (OOP) Flask and some other cool libraries and frameworks.",
   resumeLink: "/Essmat-Resume.pdf",
 };
 
@@ -15,6 +15,9 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
+  facebook: "https://www.facebook.com/mohamed.essmat.73",
+  instagram: "",
+  twitter: "",
   github: "https://github.com/MohEssmat",
   linkedin: "https://www.linkedin.com/in/mohamed-essmat-0b771123/",
 };
@@ -134,9 +137,9 @@ export const experience = [
   {
     role: "Full-Stack Web Developer",
     company: "Freelance - Self Employed",
-    companylogo: "/img/icons/common/google.svg",
+    companylogo: "",
     date: "April 2020 – Present",
-    desc: "Create commercial websites for several clients - Wrote structured, tested, readable, and maintainable code - Developed code following common security practices and development design patterns",
+    desc: "Create commercial websites for several clients - Wrote structured, tested, readable, and maintainable code - Developed code following common security practices and development design patterns - Designed and developed 10+ front-end and back-end applications utilizing JavaScript, React, Node.js, and TypeScript",
   },
 ];
 
@@ -167,9 +170,9 @@ export const projects = [
 
 export const feedbacks = [
   {
-    name: "Hassan Mehmood",
+    name: "Hassan Mahmoud",
     feedback:
-      "We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
+      "We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Mohamed Essmat has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose Mohamed web developer services for us",
   },
   {
     name: "Maheen Altaf",
