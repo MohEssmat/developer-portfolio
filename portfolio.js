@@ -170,6 +170,11 @@ export const projects = [
     link: "https://www.litcustomshop.com/",
   },
   {
+    name: "Wolfamaze",
+    desc: "Wolfamaze is an e-commerce website for wolves and lover products, It's custom jewelry, clothes, bedsits, and others with wolves designs",
+    link: "https://wolfamaze.com/",
+  },
+  {
     name: "View More Project",
 
     link: "https://github.com/MohEssmat",
