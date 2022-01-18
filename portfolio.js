@@ -139,15 +139,15 @@ export const experience = [
     role: "Full-Stack Web Developer",
     company: "Freelance - Self Employed",
     companylogo: "",
-    date: "April 2020 – March 2020",
-    desc: "Create commercial websites for several clients - Contract Set-up: Setting up new Contracts for all projects in SAP - Maintain document control registers / documents for incoming and outgoing project document",
+    date: "April 2020 –Present",
+    desc: "Create commercial websites for several clients  - Wrote structured, tested, readable, and maintainable code - Developed code following common security practices and development design patterns -  Designed and developed 10+ front-end and back-end applications utilizing JavaScript, React, Node.js, and TypeScript- Participated in the planning and execution of 10+ business continuity/disaster recovery exercises - Developed code following common security practices and development design patterns",
   },
   {
     role: "Project Document Manager",
     company: "thyssenkrupp Industrial Solutions USA Inc",
     companylogo: "",
-    date: "November 2008 – Present",
-    desc: "Working on SAP program to manage the document flow between projects - Wrote structured, tested, readable, and maintainable code - Developed code following common security practices and development design patterns - Designed and developed 10+ front-end and back-end applications utilizing JavaScript, React, Node.js, and TypeScript",
+    date: "November 2008 – March 2020",
+    desc: "Working on SAP program to manage the document flow between projects - Contract Set-up: Setting up new Contracts for all projects in SAP- - Maintain document control registers / documents for incoming and outgoing project document",
   },
 ];
 
