@@ -21,7 +21,7 @@ export default function Home({ githubProfileData }) {
         data={{
           title: "Mohamed Essmat",
           description: "A passionate Full Stack Web Developer.",
-          image: "/myimage.PNG",
+          image: "https://avatars.githubusercontent.com/u/92461972?v=4",
           url: "https://developer-portfolio-temp.herokuapp.com/",
           keywords: [
             "Mohamed",
