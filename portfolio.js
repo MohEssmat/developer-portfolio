@@ -24,7 +24,8 @@ export const socialLinks = {
 
 export const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle:
+    "Enthusiastically FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -138,15 +139,22 @@ export const experience = [
     role: "Full-Stack Web Developer",
     company: "Freelance - Self Employed",
     companylogo: "",
-    date: "April 2020 – Present",
-    desc: "Create commercial websites for several clients - Wrote structured, tested, readable, and maintainable code - Developed code following common security practices and development design patterns - Designed and developed 10+ front-end and back-end applications utilizing JavaScript, React, Node.js, and TypeScript",
+    date: "April 2020 – March 2020",
+    desc: "Create commercial websites for several clients - Contract Set-up: Setting up new Contracts for all projects in SAP - Maintain document control registers / documents for incoming and outgoing project document",
+  },
+  {
+    role: "Project Document Manager",
+    company: "thyssenkrupp Industrial Solutions USA Inc",
+    companylogo: "",
+    date: "November 2008 – Present",
+    desc: "Working on SAP program to manage the document flow between projects - Wrote structured, tested, readable, and maintainable code - Developed code following common security practices and development design patterns - Designed and developed 10+ front-end and back-end applications utilizing JavaScript, React, Node.js, and TypeScript",
   },
 ];
 
 export const projects = [
   {
     name: "Watch-iT Movie App",
-    desc: "Watch-iT application is a movie app. It pulls movies from The Movie Database using API calls. Users have the option to view the Now Playing, Upcoming, Tob Rated and Popular movies, sort them by genre or search for other movies using the search feature, and get back information about each movie they want to watch, including a trailer! Sign up to create a list of your favorites!",
+    desc: "Watch-iT application is a movie app. It pulls movies from The Movie Database using API calls. Users have the option to view the Now Playing, Upcoming, Top Rated and Popular movies, Sort them by genre or search for other movies using the search feature, And get back information about each movie they want to watch, including a trailer! Sign up to create a list of your favorites!",
     link: "https://thawing-fjord-57482.herokuapp.com/",
   },
   {
@@ -157,7 +165,7 @@ export const projects = [
   },
   {
     name: "Lit Custom Shop",
-    desc: "Lit custom shop is e-commerce website allow users to custom, upload and design their Design/Logo/Image, It's print on demand clothes website",
+    desc: "Lit custom shop is an e-commerce website that allows users to custom, upload and design their designs/logo/image, It's print on demand website that allows the customers to print on any material",
 
     link: "https://www.litcustomshop.com/",
   },
@@ -177,6 +185,6 @@ export const feedbacks = [
   {
     name: "Maheen Altaf",
     feedback:
-      "the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
+      "The website was very Professional , everything was perfectly made as was requested . it loads quickly, with no waiting. the quality and attention to details were very amazing. our clients have been using the site and enjoy all the new features. Excellent job and highly recommend ",
   },
 ];
