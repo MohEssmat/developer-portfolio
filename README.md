@@ -74,7 +74,7 @@ $ yarn dev
 
 ```javascript
   //  portfolio.js
-  githubUserName: 'YOUR GITHUB USERNAME HERE',
+  githubUserName: 'MohEssmat',
 ```
 
 #### Using Emojis
@@ -98,7 +98,7 @@ For adding emoji 😃 into the texts in `Portfolio.js`, use the `emoji()` functi
 
 ## For the Future
 
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/saadpasta/developerFolio/pulls).
+If you can help me with these. Please don't hesitate to open a [pull request](https://github.com/saadpasta/developerFolio/pulls).
 
 - Enable Dark Mode
 
