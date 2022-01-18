@@ -20,8 +20,7 @@ export default function Home({ githubProfileData }) {
       <SEO
         data={{
           title: "Mohamed Essmat",
-          description:
-            "A passionate Full Stack Web Developer and Mobile App Developer.",
+          description: "A passionate Full Stack Web Developer.",
           image: "/myimage.PNG",
           url: "https://developer-portfolio-temp.herokuapp.com/",
           keywords: [
