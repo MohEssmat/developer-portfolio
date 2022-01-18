@@ -4,7 +4,7 @@ export const greetings = {
   name: "Mohamed Essmat",
   title: "Hi all, I'm Mohamed Essmat",
   description:
-    "A passionate Full Stack Web Developer with experienced in building Web applications with JavaScript / Reactjs / Nodejs / Express js / NoSQL / mySQL / Rest APIs / PWA / Object-Oriented Programming (OOP) Flask and some other cool libraries and frameworks.",
+    "A passionate Full Stack Web Developer with experienced in building Web applications with JavaScript / Reactjs /Nodejs/Express js/NoSQL/mySQL/Rest APIs/PWA/ Object-Oriented Programming(OOP), Bootstrap and some other cool libraries and frameworks.",
   resumeLink: "/Essmat-Resume.pdf",
 };
 
@@ -28,7 +28,7 @@ export const skillsSection = {
     "Enthusiastically FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop highly interactive Frontend/User Interfaces for your web and mobile applications"
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
@@ -185,7 +185,7 @@ export const feedbacks = [
   {
     name: "Hassan Mahmoud",
     feedback:
-      "We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Mohamed Essmat has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose Mohamed web developer services for us",
+      "We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Mohamed Essmat has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that you have choose Mohamed web developer services for you",
   },
   {
     name: "Maheen Altaf",
