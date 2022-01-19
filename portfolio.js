@@ -155,6 +155,7 @@ export const projects = [
   {
     name: "Watch-iT Movie App",
     desc: "Watch-iT application is a movie app. It pulls movies from The Movie Database using API calls. Users have the option to view the Now Playing, Upcoming, Top Rated and Popular movies, Sort them by genre or search for other movies using the search feature, And get back information about each movie they want to watch, including a trailer! Sign up to create a list of your favorites!",
+    github: "https://github.com/elliscj/watchIT",
     link: "https://thawing-fjord-57482.herokuapp.com/",
   },
   {
