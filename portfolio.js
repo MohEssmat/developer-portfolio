@@ -65,10 +65,7 @@ export const skillsSection = {
       skillName: "nodejs",
       fontAwesomeClassname: "logos:nodejs-icon",
     },
-    {
-      skillName: "flutter",
-      fontAwesomeClassname: "logos:flutter",
-    },
+
     {
       skillName: "swift",
       fontAwesomeClassname: "vscode-icons:file-type-swift",
@@ -85,25 +82,10 @@ export const skillsSection = {
       skillName: "mongoDB",
       fontAwesomeClassname: "vscode-icons:file-type-mongo",
     },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "logos:aws",
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "logos:firebase",
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "logos:python",
-    },
+
     {
       skillName: "git",
       fontAwesomeClassname: "logos:git-icon",
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "logos:docker-icon",
     },
   ],
 };
@@ -138,14 +120,14 @@ export const experience = [
   {
     role: "Full-Stack Web Developer",
     company: "Freelance - Self Employed",
-    companylogo: "",
+    // companylogo: "",
     date: "April 2020 –Present",
     desc: "Create commercial websites for several clients  - Wrote structured, tested, readable, and maintainable code - Developed code following common security practices and development design patterns -  Designed and developed 10+ front-end and back-end applications utilizing JavaScript, React, Node.js, and TypeScript- Participated in the planning and execution of 10+ business continuity/disaster recovery exercises - Developed code following common security practices and development design patterns",
   },
   {
     role: "Project Document Manager",
     company: "thyssenkrupp Industrial Solutions USA Inc",
-    companylogo: "",
+    // companylogo: "",
     date: "November 2008 – March 2020",
     desc: "Working on SAP program to manage the document flow between projects - Contract Set-up: Setting up new Contracts for all projects in SAP- - Maintain document control registers / documents for incoming and outgoing project document",
   },
