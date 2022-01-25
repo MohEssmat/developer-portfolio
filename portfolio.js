@@ -27,13 +27,24 @@ export const skillsSection = {
   subTitle:
     "ENTHUSIASTICALLY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
+    emoji("⚡ Developing front end website architecture"),
+    emoji("⚡ Designing user interactions on web pages"),
+    emoji("⚡ Developing back-end website applications"),
+    emoji("⚡ Creating servers and databases for functionality"),
     emoji(
-      "⚡ Develop highly interactive Frontend/User Interfaces for your web and mobile applications"
+      "⚡ Managing the complete software development process from conception to deployment"
+    ),
+    emoji(
+      "⚡ Overseeing and guiding the analyzing, writing, building, and deployment of software"
+    ),
+    emoji("⚡ Modifying and testing changes to previously developed programs"),
+    emoji(
+      "⚡ Managing the complete software development process from conception to deployment"
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    ),
+    emoji("⚡ Ensuring responsiveness of applications"),
+    emoji("⚡ Designing and developing APIs"),
+    emoji("⚡ Develop and design RESTful services and APIs"),
   ],
 
   softwareSkills: [
