@@ -155,7 +155,7 @@ export const projects = [
     name: "GivingTree Donation App",
     desc: "Often the easiest way for us to make donations is at the checkout lane of box stores. The owners of these corporations do not need more tax right-offs, you do. GivingTree helps users find charities in line with their passions, and makes it easy to donate. It also helps you with the necessary tax documents.",
     github: "https://github.com/elliscj/GivingTree",
-    link: "https://awesome-giving-tree.herokuapp.com//",
+    link: "https://awesome-giving-tree.herokuapp.com/",
   },
   {
     name: "Lit Custom Shop",
