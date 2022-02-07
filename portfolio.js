@@ -152,10 +152,10 @@ export const projects = [
     link: "https://thawing-fjord-57482.herokuapp.com/",
   },
   {
-    name: "uProjekt Project Calendar",
-    desc: "Programmers require a responsive online planner for scheduling timeframes to complete their projects: uProjekt. The planner will be allocated based on a project's deadline, with Typical, Accelerated, and Custom options available. Currently these features are in a placeholder stage.",
-    github: "https://github.com/MohEssmat/uProjekt",
-    link: "https://mohessmat.github.io/uProjekt/",
+    name: "GivingTree Donation App",
+    desc: "Often the easiest way for us to make donations is at the checkout lane of box stores. The owners of these corporations do not need more tax right-offs, you do. GivingTree helps users find charities in line with their passions, and makes it easy to donate. It also helps you with the necessary tax documents.",
+    github: "https://github.com/elliscj/GivingTree",
+    link: "https://awesome-giving-tree.herokuapp.com//",
   },
   {
     name: "Lit Custom Shop",
