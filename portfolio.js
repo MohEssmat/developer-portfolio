@@ -16,7 +16,7 @@ export const contact = {};
 
 export const socialLinks = {
   facebook: "https://www.facebook.com/mohamed.essmat.73",
-  instagram: "",
+  instagram: "https://www.instagram.com/moh.essmat/",
   twitter: "",
   github: "https://github.com/MohEssmat",
   linkedin: "https://www.linkedin.com/in/mohamed-essmat-0b771123/",
