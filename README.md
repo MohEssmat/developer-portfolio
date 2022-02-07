@@ -54,14 +54,14 @@ git@2.17.1 or higher
 
 ## How To Use
 
-From your command line, clone and run developer-portolio:
+From your command line, clone and run developer-portfolio:
 
 ```bash
 # Clone this repository
 $ https://github.com/MohEssmat/developer-portfolio.git
 
 # Go into the repository
-$ cd my-portfolio
+$ cd developer-portfolio
 
 # Install dependencies
 $ yarn
