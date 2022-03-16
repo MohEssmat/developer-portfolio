@@ -140,7 +140,7 @@ export const experience = [
     company: "thyssenkrupp Industrial Solutions USA Inc",
     // companylogo: "",
     date: "February 2018 – March 2020",
-    desc: "· Define and develop technical standards  - Create guidelines based on client function specifications, - Test and verify code results through test cases -  Write test case scenarios to check code functionality, Participate in project quality management tasks, such as peer and quality reviews of specifications, design documents, and code reviews - Responsible for analyzing high-level business processes and requirements",
+    desc: "Define and develop technical standards, Create guidelines based on client function specifications, Test and verify code results through test cases, Write test case scenarios to check code functionality, Participate in project quality management tasks, such as peer and quality reviews of specifications, design documents, and code reviews, Responsible for analyzing high-level business processes and requirements",
   },
   {
     role: "Project Document Manager",
