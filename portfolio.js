@@ -136,10 +136,17 @@ export const experience = [
     desc: "Create commercial websites for several clients  - Wrote structured, tested, readable, and maintainable code - Developed code following common security practices and development design patterns -  Designed and developed 10+ front-end and back-end applications utilizing JavaScript, React, Node.js, and TypeScript- Participated in the planning and execution of 10+ business continuity/disaster recovery exercises - Developed code following common security practices and development design patterns",
   },
   {
+    role: "SAP Developer",
+    company: "thyssenkrupp Industrial Solutions USA Inc",
+    // companylogo: "",
+    date: "February 2018 – March 2020",
+    desc: "· Define and develop technical standards  - Create guidelines based on client function specifications, - Test and verify code results through test cases -  Write test case scenarios to check code functionality, Participate in project quality management tasks, such as peer and quality reviews of specifications, design documents, and code reviews - Responsible for analyzing high-level business processes and requirements",
+  },
+  {
     role: "Project Document Manager",
     company: "thyssenkrupp Industrial Solutions USA Inc",
     // companylogo: "",
-    date: "November 2008 – March 2020",
+    date: "November 2010 – January 2018",
     desc: "Working on SAP program to manage the document flow between projects - Contract Set-up: Setting up new Contracts for all projects in SAP- - Maintain document control registers / documents for incoming and outgoing project document",
   },
 ];
