@@ -133,7 +133,7 @@ export const experience = [
     company: "Freelance - Self Employed",
     // companylogo: "",
     date: "April 2020 –Present",
-    desc: "Create commercial websites for several clients  - Wrote structured, tested, readable, and maintainable code - Developed code following common security practices and development design patterns -  Designed and developed 10+ front-end and back-end applications utilizing JavaScript, React, Node.js, and TypeScript- Participated in the planning and execution of 10+ business continuity/disaster recovery exercises - Developed code following common security practices and development design patterns",
+    desc: "Create commercial websites for several clients  - Wrote structured, tested, readable, and maintainable code - Developed code following common security practices and development design patterns -  Designed and developed 10+ front-end and back-end applications utilizing JavaScript, React, Node.js,e-commerce specialist, Social media marketing, advertising, Participated in the planning and execution of 10+ business continuity/disaster recovery exercises - Developed code following common security practices and development design patterns",
   },
   {
     role: "SAP Developer",
