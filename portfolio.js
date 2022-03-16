@@ -4,7 +4,7 @@ export const greetings = {
   name: "Mohamed Essmat",
   title: "Hi all, I'm Mohamed Essmat",
   description:
-    "A passionate Full Stack Web Developer with experienced in building Web applications with JavaScript / Reactjs /Nodejs/Express js/NoSQL/mySQL/Rest APIs/PWA/ Object-Oriented Programming(OOP)/MERN/State/graghQL, Bootstrap and some other cool libraries and frameworks.",
+    "A passionate Full Stack Web Developer with experienced in building Web applications with JavaScript / Reactjs /Nodejs/Express js/NoSQL/mySQL/Rest APIs/PWA/ Object-Oriented Programming(OOP)/MERN/State/graghQL, Bootstrap and some other cool libraries and frameworks, e-commerce specialist, Social media marketing, advertising ",
   resumeLink: "/Essmat-Resume.pdf",
 };
 
